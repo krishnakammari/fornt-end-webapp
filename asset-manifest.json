@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fornt-end-webapp/static/css/main.12b14038.chunk.css",
+    "main.js": "/fornt-end-webapp/static/js/main.605258b4.chunk.js",
+    "main.js.map": "/fornt-end-webapp/static/js/main.605258b4.chunk.js.map",
+    "runtime-main.js": "/fornt-end-webapp/static/js/runtime-main.2ee8ad0a.js",
+    "runtime-main.js.map": "/fornt-end-webapp/static/js/runtime-main.2ee8ad0a.js.map",
+    "static/css/2.5ca9ed18.chunk.css": "/fornt-end-webapp/static/css/2.5ca9ed18.chunk.css",
+    "static/js/2.c3181df8.chunk.js": "/fornt-end-webapp/static/js/2.c3181df8.chunk.js",
+    "static/js/2.c3181df8.chunk.js.map": "/fornt-end-webapp/static/js/2.c3181df8.chunk.js.map",
+    "index.html": "/fornt-end-webapp/index.html",
+    "precache-manifest.130182b3ce922e84fbcd56caf7c21184.js": "/fornt-end-webapp/precache-manifest.130182b3ce922e84fbcd56caf7c21184.js",
+    "service-worker.js": "/fornt-end-webapp/service-worker.js",
+    "static/css/2.5ca9ed18.chunk.css.map": "/fornt-end-webapp/static/css/2.5ca9ed18.chunk.css.map",
+    "static/css/main.12b14038.chunk.css.map": "/fornt-end-webapp/static/css/main.12b14038.chunk.css.map",
+    "static/js/2.c3181df8.chunk.js.LICENSE.txt": "/fornt-end-webapp/static/js/2.c3181df8.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/fornt-end-webapp/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee8ad0a.js",
+    "static/css/2.5ca9ed18.chunk.css",
+    "static/js/2.c3181df8.chunk.js",
+    "static/css/main.12b14038.chunk.css",
+    "static/js/main.605258b4.chunk.js"
+  ]
+}
